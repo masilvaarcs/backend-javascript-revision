@@ -1,11 +1,11 @@
-# javascript-back-end-revisao
+# backend-javascript-revision
 
-**Bem-vindo ao javascript-back-end-revisao!**
+**Bem-vindo ao backend-javascript-revision!**
 
-Este repositório é uma introdução prática à linguagem [Nome da Linguagem], destinada a iniciantes que desejam aprender os conceitos básicos da linguagem. Aqui você encontrará uma coleção de exemplos simples e claros que abrangem tópicos fundamentais, como sintaxe, declaração de variáveis, estruturas de controle e muito mais.
+Este repositório é uma introdução prática à linguagem JavaScript, destinada a iniciantes que desejam aprender os conceitos básicos da linguagem. Aqui você encontrará uma coleção de exemplos simples e claros que abrangem tópicos fundamentais, como sintaxe, declaração de variáveis, estruturas de controle e muito mais.
 
 **Objetivo:**
-O objetivo deste repositório é fornecer um ponto de partida amigável para aqueles que estão dando os primeiros passos na linguagem [Nome da Linguagem]. Ao explorar os exemplos disponíveis, você terá uma visão abrangente dos conceitos essenciais e ficará preparado para aprofundar seus conhecimentos e criar seus próprios projetos.
+O objetivo deste repositório é fornecer um ponto de partida amigável para aqueles que estão dando os primeiros passos na linguagem JavaScript. Ao explorar os exemplos disponíveis, você terá uma visão abrangente dos conceitos essenciais e ficará preparado para aprofundar seus conhecimentos e criar seus próprios projetos.
 
 **Conteúdo:**
 - Exemplos de sintaxe básica da linguagem JavaScript.
